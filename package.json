@@ -1,0 +1,55 @@
+{
+  "name": "losmovies",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/third-parties": "15.3.3",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-select": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@serwist/next": "^9.0.10",
+    "@tailwindcss/typography": "^0.5.10",
+    "@vercel/analytics": "^1.2.2",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.383.0",
+    "next": "15.3.3",
+    "next-themes": "^0.4.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-icons": "^5.0.1",
+    "react-paginate": "^8.3.0",
+    "react-slick": "^0.30.3",
+    "sass": "^1.74.1",
+    "slick-carousel": "^1.8.1",
+    "sonner": "^1.7.0",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vaul": "^1.1.2"
+  },
+  "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.12.0",
+    "@types/node": "22.15.29",
+    "@types/react": "19.1.6",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "15.3.3",
+    "next-router-mock": "^0.9.12",
+    "postcss": "^8",
+    "serwist": "^9.0.10",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.6.3",
+    "wrangler": "^3.62.0"
+  },
+  "overrides": {
+    "@types/react": "19.1.6"
+  }
+}

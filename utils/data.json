@@ -1,0 +1,395 @@
+[
+    
+    {
+    "backdrop_path": "/Images/Backdrops/culpatuya.webp",
+    "genre": "Romance, Drama",
+    "id": 1156593,
+    "imdb_id": "tt28510079",
+    "original_language": "es",
+    "original_title": "Culpa tuya",
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "poster_path": "/Images/Posters/culpatuya.webp",
+    "release_date": "2024-12-26",
+    "tagline": "Divided by family. Driven by love.",
+    "title": "Culpa tuya",
+    "type": "movie"
+    },
+
+    {
+        "backdrop_path": "/Images/Backdrops/minecraft.webp",
+        "genre": "Family, Adventure, Comedy",
+        "id": 950387,
+        "original_language": "en",
+        "original_title": "A Minecraft Movie",
+        "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+        "poster_path": "/Images/Posters/minecraft.webp",
+        "release_date": "2025-03-31",
+        "tagline": "Be there and be square.",
+        "title": "A Minecraft Movie",
+        "type": "movie"
+      },
+    
+    
+    
+    
+    {
+        "backdrop_path": "/Images/Backdrops/hod.webp",
+        "first_air_date": "2022-08-21",
+        "genre": "Fantasy, Drama, Action",
+        "id": 94997,
+        "name": "House of the Dragon",
+        "title": "House of the Dragon",
+        "original_name": "House of the Dragon",
+        "original_title": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster_path": "/Images/Posters/hod.webp",
+        "tagline": "All must choose.",
+        "type": "tv"
+      },
+
+     
+
+      
+    {
+       "backdrop_path": "/Images/Backdrops/Wolverine.webp",
+       "id": 76170,
+       "genre": "Action, Adventure, Drama",
+       "imdb_id": "tt1430132",
+       "original_title": "The Wolverine",
+       "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+       "poster_path": "/Images/Posters/wolverine.webp",
+       "release_date": "2013-07-21",
+       "tagline": "When he's most vulnerable, he's most dangerous.",
+       "title": "The Wolverine",
+       "type": "movie"
+   },
+
+   {
+    "backdrop_path": "/Images/Backdrops/wotws.webp",
+    "id": 106646,
+    "imdb_id": "tt0993846",
+    "genre": "Crime, Drama, Comedy",
+    "original_title": "The Wolf of Wall Street",
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "poster_path": "/Images/Posters/wotws.webp",
+    "release_date": "2013-12-25",
+    "tagline": "Earn. Spend. Party.",
+    "title": "The Wolf of Wall Street",
+    "type": "movie"
+  },
+
+   
+    {
+        "adult": false,
+        "backdrop_path": "/Images/Backdrops/culpamia.webp",
+        "genre": "Drama, Romance",
+        "id": 1010581,
+        "imdb_id": "tt21909764",
+        "original_language": "es",
+        "original_title": "Culpa mía",
+        "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+        "poster_path": "/Images/Posters/culpamia.webp",
+        "release_date": "2023-06-08",
+        "runtime": 117,
+        "tagline": "Passion and Suspicion Collide in the Dark",
+        "title": "My Fault",
+        "type": "movie"
+    },
+   
+   
+   
+   
+   
+   
+   
+     {
+       "backdrop_path": "/Images/Backdrops/fastx.webp",
+       "id": 385687,
+       "genre": "Action, Adventure, Crime",
+       "imdb_id": "tt5433140",
+       "original_title": "Fast X",
+       "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+       "poster_path": "/Images/Posters/fastx.webp",
+       "tagline": "The end of the road begins.",
+       "release_date": "2023-05-17",
+       "title": "Fast X",
+       "type": "movie"
+   
+     },
+   
+   
+   
+     {
+       "backdrop_path": "/Images/Backdrops/fast5.webp",
+       "id": 51497,
+       "genre": "Action, Crime, Thriller",
+       "imdb_id": "tt1596343",
+       "original_title": "Fast Five",
+       "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+       "poster_path": "/Images/Posters/fast5.webp",
+       "release_date": "2011-04-20",
+       "revenue": 626100000,
+       "runtime": 130,
+       "tagline": "Get the fifth gear.",
+       "title": "Fast Five",
+       "type": "movie"
+   
+     },
+   
+   
+   
+
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/deadpool.webp",
+        "id": 293660,
+       "genre": "Action, Comedy",
+        "imdb_id": "tt1431045",
+       "original_title": "Deadpool",
+       "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+       "poster_path": "/Images/Posters/deadpool.webp",
+       "release_date": "2016-02-09",
+       "tagline": "Witness the beginning of a happy ending.",
+       "title": "Deadpool",
+       "type": "movie"
+   
+     },
+   
+   
+   
+   
+   
+   {
+       "backdrop_path": "/Images/Backdrops/tlou.webp",
+       "first_air_date": "2023-01-15",
+       "id": 100088,
+       "genre": "Action, Adventure, Drama",
+       "imdb_id": "tt3581920",
+       "last_air_date": "2023-03-12",
+       "name": "The Last of Us",
+       "title": "The Last of Us",
+       "number_of_episodes": 9,
+       "number_of_seasons": 1,
+       "original_name": "The Last of Us",
+       "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+       "poster_path": "/Images/Posters/tlou.webp",
+       "tagline": "When you're lost in the darkness, look for the light.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/obx.webp",
+        "first_air_date": "2020-04-15",
+       "id": 100757,
+       "name": "Outer Banks",
+       "genre": "Action, Crime, Drama",
+       "imdb_id": "tt10293938",
+       "title": "Outer Banks",
+       "number_of_episodes": 31,
+       "number_of_seasons": 4,
+       "original_name": "Outer Banks",
+       "overview": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+       "poster_path": "/Images/Posters/obx.webp",
+       "tagline": "Nothing to lose.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/vikings2.webp",
+        "first_air_date": "2013-03-03",
+       "id": 44217,
+       "genre": "Action, Adventure, History",
+       "imdb_id": "tt2306299",
+       "name": "Vikings",
+       "title": "Vikings",
+       "number_of_episodes": 89,
+       "number_of_seasons": 6,
+       "original_name": "Vikings",
+       "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+       "poster_path": "/Images/Posters/vikings.webp",
+       "tagline": "Conquer the Unknown",
+       "type": "tv"
+   
+     },
+
+
+    {
+        "backdrop_path": "/Images/Backdrops/berlin.webp",
+        "first_air_date": "2023-12-29",
+        "genre": "Drama, Action & Adventure, Crime",
+        "id": 146176,
+        "title": "Berlin",
+        "original_language": "es",
+        "original_title": "Berlín",
+        "overview": "During his glory days, Berlin and a gang assembled in Paris for one of his greatest plans ever: stealing 44 million euros' worth of jewels in one night.",
+        "poster_path": "/Images/Posters/berlin.webp",
+        "tagline": "Only two things can brighten a dark day: The first is love. The second is stealing a fortune.",
+        "type": "tv"
+    },
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/prisonbreak.webp",
+        "first_air_date": "2005-08-29",
+       "id": 2288,
+       "genre": "Action, Crime, Drama",
+       "imdb_id": "tt0455275",
+       "name": "Prison Break",
+       "title": "Prison Break",
+       "number_of_episodes": 88,
+       "number_of_seasons": 5,
+       "original_name": "Prison Break",
+       "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+       "poster_path": "/Images/Posters/prisonbreak.webp",
+       "tagline": "Break in. Break out.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/lacasa.webp",
+        "first_air_date": "2017-05-02",
+       "id": 71446,
+       "genre": "Action, Crime, Drama",
+       "imdb_id": "tt6468322",
+       "name": "Money Heist",
+       "title": "La Casa de Papel",
+       "original_language": "es",
+       "number_of_episodes": 41,
+       "number_of_seasons": 3,
+       "original_title": "La Casa de Papel",
+       "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+       "poster_path": "/Images/Posters/lacasa.webp",
+       "tagline": "The perfect robbery.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/breakingbad.webp",
+        "first_air_date": "2008-01-20",
+       "id": 1396,
+       "name": "Breaking Bad",
+       "title": "Breaking Bad",
+       "genre": "Crime, Drama, Thriller",
+       "imdb_id": "tt0903747",
+       "number_of_episodes": 62,
+       "number_of_seasons": 5,
+       "original_name": "Breaking Bad",
+       "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+       "poster_path": "/Images/Posters/breakingbad.webp",
+       "tagline": "Change the equation.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/peakyblinders.webp",
+        "first_air_date": "2013-09-12",
+       "id": 60574,
+       "name": "Peaky Blinders",
+       "genre": "Crime, Drama",
+       "imdb_id": "tt2442560",
+       "title": "Peaky Blinders",
+       "number_of_episodes": 36,
+       "number_of_seasons": 6,
+       "original_name": "Peaky Blinders",
+       "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+       "poster_path": "/Images/Posters/peakyblinders.webp",
+       "tagline": "London's for the taking.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/twd.webp",
+        "first_air_date": "2010-10-31",
+       "id": 1402,
+       "genre": "Drama, Horror, Thriller",
+       "imdb_id": "tt1520211",
+       "name": "The Walking Dead",
+       "title": "The Walking Dead",
+       "number_of_episodes": 177,
+       "number_of_seasons": 11,
+       "original_name": "The Walking Dead",
+       "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+       "poster_path": "/Images/Posters/twd.webp",
+       "tagline": "Fight the dead. Fear the living.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/squidgame.webp",
+        "first_air_date": "2021-09-17",
+       "id": 93405,
+       "genre": "Action, Drama, Mystery",
+       "imdb_id": "tt10919420",
+       "name": "Squid Game",
+       "title": "Squid Game",
+       "number_of_episodes": 9,
+       "number_of_seasons": 2,
+       "original_name": "오징어 게임",
+       "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+       "poster_path": "/Images/Posters/squidgame.webp",
+       "tagline": "45.6 billion won is child's play.",
+       "type": "tv"
+   
+     },
+   
+   
+   
+   
+     {
+        "backdrop_path": "/Images/Backdrops/got.webp",
+        "first_air_date": "2011-04-17",
+       "id": 1399,
+       "genre": "Action, Adventure, Fiction",
+       "imdb_id": "tt0944947",
+       "name": "Game of Thrones",
+       "title": "Game of Thrones",
+       "number_of_episodes": 73,
+       "number_of_seasons": 8,
+       "original_name": "Game of Thrones",
+       "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+       "poster_path": "/Images/Posters/got.webp",
+       "tagline": "Winter Is Coming",
+       "type": "tv"
+   
+     }
+]
