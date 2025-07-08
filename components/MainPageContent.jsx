@@ -1,15 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
-import React from 'react'
+import React from 'react';
 
 const MainPageContent = () => {
   return (
-    <div>
-        
-  <div className="c22 c9 w-full pt-10 doc-content">
-  <h1 className="c24" id="h.sqxuj062x88v">
-  <span className="c21">
-  Welcome to Losmovies- Your Ultimate Hub for Nonstop Entertainment!
-  </span></h1><p className="c2">
+    <div className="c22 c9 w-full pt-10 doc-content">
+      <h1 className="c24" id="h.sqxuj062x88v">
+        <span className="c21">
+          Welcome to Losmovies- Your Ultimate Hub for Nonstop Entertainment!
+        </span>
+      </h1><p className="c2">
   <span className="c3">
   LosMovies offers you an opportunity to experience a captivating world of movies and TV shows. Being one of the best online streaming platforms, LosMovies ru features a wide range of new releases, classics, gripping series and more that can be accessed comfortably from your home. Get set for an unmatched thrill that will keep you stuck on your screen for hours!
     </span>
