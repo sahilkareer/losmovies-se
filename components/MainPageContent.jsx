@@ -5,16 +5,13 @@ const MainPageContent = () => {
   return (
     <div>
         
-   <div className="c22 c9 w-full pt-10 doc-content">
+  <div className="c22 c9 w-full pt-10 doc-content">
   <h1 className="c24" id="h.sqxuj062x88v">
-    <span className="c21">
-      Welcome to Losmovies- Your Ultimate Hub for Nonstop Entertainment!
-    </span>
-  </h1>
-
-  <p className="c2">
-    <span className="c3">
-      LosMovies offers you an opportunity to experience a captivating world of movies and TV shows. Being one of the best online streaming platforms, LosMovies ru features a wide range of new releases, classics, gripping series and more that can be accessed comfortably from your home. Get set for an unmatched thrill that will keep you stuck on your screen for hours!
+  <span className="c21">
+  Welcome to Losmovies- Your Ultimate Hub for Nonstop Entertainment!
+  </span></h1><p className="c2">
+  <span className="c3">
+  LosMovies offers you an opportunity to experience a captivating world of movies and TV shows. Being one of the best online streaming platforms, LosMovies ru features a wide range of new releases, classics, gripping series and more that can be accessed comfortably from your home. Get set for an unmatched thrill that will keep you stuck on your screen for hours!
     </span>
   </p>
 
@@ -553,7 +550,6 @@ const MainPageContent = () => {
       Our extensive library features a wide range of films and TV series from different countries, complete with original audio tracks in their native tongues. Whether you’re in search of Hollywood blockbusters in English, Bollywood classics in Hindi, or critically acclaimed foreign films in languages like French, Spanish, Korean, Japanese, and more, LosMovies is dedicated to providing a rich multilingual experience.
     </span>
   </p>
-
   <p className="c2">
     <span className="c3">
       To make our content accessible to a wider audience, we also provide subtitles in various languages for many titles. Subtitles are a valuable resource for viewers who may not be fluent in the original language of the content. Users can select subtitles in their preferred language to enjoy a seamless and immersive viewing experience.
@@ -580,6 +576,7 @@ const MainPageContent = () => {
      
     </div>
   );
-}
+};
 
-export default MainPageContent
+export default MainPageContent;
+
