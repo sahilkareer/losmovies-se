@@ -579,7 +579,7 @@ const MainPageContent = () => {
   </p>
      
     </div>
-  )
+  );
 }
 
 export default MainPageContent
