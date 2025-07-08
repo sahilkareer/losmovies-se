@@ -35,7 +35,7 @@ export const viewport = {
 
 export const metadata = {
     other: {
-        "google-site-verification": "0BBTOUgbFoigDTLWGj_vLlw8Ejm9w9OWvSnjkRhvxwM",
+        "google-site-verification": "t1Hm4ZzPAdg-fpILH9X6X0Cu4QF-NP7J1ZonL4Rxn9Y",
         "robots": "index, follow",
     }
 };
